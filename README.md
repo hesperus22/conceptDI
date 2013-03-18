@@ -1,4 +1,4 @@
 ConceptDI
 =========
 
-ConceptDI is light-weight yet powerful DI framework written in Scala
+ConceptDI is light-weight,type-safe DI framework written in Scala
